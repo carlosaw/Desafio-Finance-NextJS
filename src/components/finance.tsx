@@ -64,7 +64,7 @@ export const Finance = () => {
           <div className="w-full flex items-center justify-center sm:justify-between">
             <Image src="/assets/logoTitle.png" alt="Logo Finance" width={164} height={37} />
             <div className="hidden sm:block text-lg text-greenFinance">
-              powered by B7Web
+              powered by Aw2Web
             </div>
           </div>
           <div className="flex flex-col sm:flex-row mt-10 sm:justify-between">
